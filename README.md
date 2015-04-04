@@ -1,3 +1,5 @@
+Assignment 0, Jennifer Lu, COGS 121 SP15
+
 Instagram Example
 ===========
 
